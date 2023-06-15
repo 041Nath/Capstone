@@ -18,7 +18,7 @@ Capstone Project C23-PS126
 
 ## Library
 ● Android: Figma, Android Studio, Kotlin<br>
-● Machine Learning: <br>
+● Machine Learning: Flask, gunicorn, tensorflow, joblib, pandas, numpy, scikit-learn, h5py, openpyxl <br>
 
 ## Deployed App
 Link Deploy API Loviso (Flask): https://apiloviso-n2pk7zaj5a-et.a.run.app/ <br>
