@@ -17,6 +17,8 @@ Capstone Project C23-PS126
 ## Dataset
 
 ## Library
+● Android: Figma, Android Studio, Kotlin<br>
+● Machine Learning: <br>
 
 ## Deployed App
 Link Deploy API Loviso (Flask): https://apiloviso-n2pk7zaj5a-et.a.run.app/ <br>
